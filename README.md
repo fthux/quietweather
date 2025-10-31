@@ -1,7 +1,7 @@
 # QuietWeather
 一款天气应用微信小程序
 <p align='center'>
-    <img src='https://raw.githubusercontent.com/myvin/miniprogram/master/quietweather/images/mpcode.png'>
+    <img src='https://raw.githubusercontent.com/fthux/miniprogram/master/quietweather/images/mpcode.png'>
 </p>
 
 ## 仓库地址
@@ -10,13 +10,13 @@
 
 ## 截图
 <div >
-    <img src='https://raw.githubusercontent.com/myvin/miniprogram/master/quietweather/images/screenshot_1.png' style='width:300px;'>
-    <img src='https://raw.githubusercontent.com/myvin/miniprogram/master/quietweather/images/screenshot_2.png' style='width:300px;'>
-    <img src='https://raw.githubusercontent.com/myvin/miniprogram/master/quietweather/images/screenshot_3.png' style='width:300px;'>
-    <img src='https://raw.githubusercontent.com/myvin/miniprogram/master/quietweather/images/screenshot_4.png' style='width:300px;'>
+    <img src='https://raw.githubusercontent.com/fthux/miniprogram/master/quietweather/images/screenshot_1.png' style='width:300px;'>
+    <img src='https://raw.githubusercontent.com/fthux/miniprogram/master/quietweather/images/screenshot_2.png' style='width:300px;'>
+    <img src='https://raw.githubusercontent.com/fthux/miniprogram/master/quietweather/images/screenshot_3.png' style='width:300px;'>
+    <img src='https://raw.githubusercontent.com/fthux/miniprogram/master/quietweather/images/screenshot_4.png' style='width:300px;'>
 
-<img src='https://raw.githubusercontent.com/myvin/miniprogram/master/quietweather/images/screenshot_5.png' style='width:300px;'>
-<img src='https://raw.githubusercontent.com/myvin/miniprogram/master/quietweather/images/screenshot_6.png' style='width:300px;'></div>
+<img src='https://raw.githubusercontent.com/fthux/miniprogram/master/quietweather/images/screenshot_5.png' style='width:300px;'>
+<img src='https://raw.githubusercontent.com/fthux/miniprogram/master/quietweather/images/screenshot_6.png' style='width:300px;'></div>
 
 ## 数据来源
 
@@ -33,14 +33,14 @@
 
 ### 支付宝
 
-<img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9191893579989_.pic.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9191893579989_.pic.jpg" width="300" />
 
 ### 微信
 
-<img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9201893579990_.pic_hd.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/fthux/miniprogram/master/9201893579990_.pic_hd.jpg" width="300" />
 
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018-present, myvin
+Copyright (c) 2018-present, fthux
