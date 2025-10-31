@@ -4,8 +4,9 @@
     <img src='https://raw.githubusercontent.com/myvin/miniprogram/master/quietweather/images/mpcode.png'>
 </p>
 
+## 仓库地址
 > * github 仓库地址[https://github.com/fthux/quietweather](https://github.com/fthux/quietweather)。
-* gitee 仓库地址[https://gitee.com/fthux/quietweather](https://gitee.com/fthux/quietweather)。
+> * gitee 仓库地址[https://gitee.com/fthux/quietweather](https://gitee.com/fthux/quietweather)。
 
 ## 截图
 <div >
