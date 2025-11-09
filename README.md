@@ -1,6 +1,8 @@
 # QuietWeather
 
+<div align="center">
 ![Achived](https://img.shields.io/badge/achived-read_only-8A2BE2)
+</div>
 
 一款天气应用微信小程序
 <p align='center'>
